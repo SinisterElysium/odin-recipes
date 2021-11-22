@@ -1,3 +1,3 @@
 # odin-recipes
-My second repo project!
-Will come back to "pretty it up" in a later lesson
+My HTML knowledge check project
+Will come back later to touch it up!
